@@ -20,6 +20,7 @@ const Details = () => {
                     <li>CSS</li>
                     <li>JS</li>
                 </ul>
+                {/* change */}
             </div>
             <div>
                 <h3>Education</h3>
